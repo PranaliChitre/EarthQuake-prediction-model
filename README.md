@@ -11,6 +11,7 @@ Visualization: The app visualizes earthquake-prone places on an interactive map 
 User Interaction: Users can explore earthquake data and predictions through buttons and interactive visualizations, enhancing user engagement and understanding.
 
 Libraries used to build the earthquake prediction web application:
+
 Streamlit: For building interactive web applications with Python.
 
 Pandas: For data manipulation and analysis.
