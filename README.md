@@ -12,8 +12,13 @@ User Interaction: Users can explore earthquake data and predictions through butt
 
 Libraries used to build the earthquake prediction web application:
 Streamlit: For building interactive web applications with Python.
+
 Pandas: For data manipulation and analysis.
+
 Matplotlib: For data visualization, particularly for creating plots and charts.
+
 Scikit-learn (sklearn): For machine learning tasks such as model training, testing, and evaluation.
+
 Pydeck: For creating interactive maps and visualizations.
+
 Geopy: For geocoding and reverse geocoding, used here to retrieve place names based on latitude and longitude coordinates.
